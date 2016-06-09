@@ -1,0 +1,14 @@
+{
+  "name": "electron-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Klughertz Jonathan <klughertz.j@gmail.com> (http://klugjo.github.io/)",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.13.0"
+  }
+}

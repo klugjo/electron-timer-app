@@ -1,0 +1,16 @@
+@import url(https://fonts.googleapis.com/css?family=Orbitron:700);
+
+html, body {
+    font-family: 'Orbitron', sans-serif;
+    background: #113A47;
+}
+
+.timer {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 75px;
+    color: #D7ECFF;
+    text-shadow: 0 0 2px #fff, 0 0 6px #fff, 0 0 10px #fff, 0 0 15px #228DFF, 0 0 25px #228DFF, 0 0 30px #228DFF, 0 0 40px #228DFF, 0 0 50px #228DFF;
+}
