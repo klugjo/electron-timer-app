@@ -9,6 +9,7 @@
   "author": "Klughertz Jonathan <klughertz.j@gmail.com> (http://klugjo.github.io/)",
   "license": "ISC",
   "dependencies": {
+    "electron": "^6.0.2",
     "moment": "^2.13.0"
   }
 }
